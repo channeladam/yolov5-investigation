@@ -1,0 +1,7 @@
+{
+    "python.autoComplete.extraPaths": [
+        "./src/yolov5repo",
+        "./src/yolov5repo/**"
+    ],
+    "python.pythonPath": ".venv/bin/python"
+}

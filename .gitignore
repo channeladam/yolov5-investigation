@@ -1,0 +1,7 @@
+.venv
+!.vscode
+activate
+coco
+src/results
+src/yolov5repo
+inference/output
